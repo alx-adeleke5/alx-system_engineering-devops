@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod gou+dx
+chmod -R gou+x *
